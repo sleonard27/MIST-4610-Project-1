@@ -35,7 +35,7 @@ Managers can identify which food items are doing well and which are not using th
 
 2. Query 2 displays the average total payment, average item quantity, and average price per item
 ![Query 2](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query2.png)
-Manager insight …
+Managers can get generalized insight into customer behavior and operational efficiency. By examining these metrics managers can identify opportunities to budget their menu items, manage their inventory, and tweak prices depending on the feedback that they get.
 
 3. Query 3 displays the number of orders, average amount spent per order, and total revenue of each table size grouped by table customer quantity
 ![Query 3](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query2.png)
