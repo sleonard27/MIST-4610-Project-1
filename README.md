@@ -45,7 +45,7 @@ This query allows the manager to understand how to their inventory and which pro
 This query provides a clear view of order distribution, staff performance, and revenue trends. Managers can use it to optimize operations, improve efficiency, and enhance customer service.
 
 7. Query 7 displays the food name and its corresponding quantity sold.
-
+![Query 7](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query7.png)
 From a managerial perspective, this query allows them to understand their inventory and base inventory planning off of it. It also allows them to run marketing campaigns for the items they haven’t sold much of and still have stock in. 
 
 ## Database information:
