@@ -18,7 +18,15 @@ The Order entity acts as the foundation of the data model, linking to the Table 
 ![Data Model](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DataModel.png)
 
 ## Data Dictionary:
-
+![DD1](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD1.png)
+![DD2](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD2.png)
+![DD3](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD3.png)
+![DD4](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD4.png)
+![DD5](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD5.png)
+![DD6}(https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD6.png)
+![DD7](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD7.png)
+![DD8](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD8.png)
+![DD9](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD9.png)
 ## Queries:
 1. Query 1 displays food name and its total quantity in descending order
 ![Query 1](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query1.png)
