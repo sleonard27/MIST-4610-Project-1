@@ -41,7 +41,7 @@ Manager insight …
 This query allows the manager to understand how to their inventory and which products they should stock the most. It also allows them to run marketing campaigns to boost revenue on expensive drinks like an old fashioned or daiquiri. This also just helps them visualize the breakup of their drink revenues.
 
 6. Query 6 retrieves all orders along with the corresponding table number and server name.
-
+![Query 6](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query6.png)
 This query provides a clear view of order distribution, staff performance, and revenue trends. Managers can use it to optimize operations, improve efficiency, and enhance customer service.
 
 7. Query 7 displays the food name and its corresponding quantity sold.
