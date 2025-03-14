@@ -21,7 +21,7 @@ The Order entity acts as the foundation of the data model, linking to the Table 
 
 ## Queries:
 1. Query 1 displays food name and its total quantity in descending order
-
+![Query 1](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query1.png)
 Managers can identify which food items are doing well and which are not using this information. Based on this, they can optimize their menus by removing underperforming items or adding popular ones, as knowing customer preferences is key to profitability.
 
 2. Query 2 displays the average total payment, average item quantity, and average price per item
