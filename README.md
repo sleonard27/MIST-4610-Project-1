@@ -50,23 +50,23 @@ This query helps identify the most profitable servers based on customer spending
 ![Query 5](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query5.png)
 This query allows the manager to understand how to their inventory and which products they should stock the most. It also allows them to run marketing campaigns to boost revenue on expensive drinks like an old fashioned or daiquiri. This also just helps them visualize the breakup of their drink revenues.
 
-7. Query 6 retrieves all orders along with the corresponding table number and server name.
+6. Query 6 retrieves all orders along with the corresponding table number and server name.
 ![Query 6](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query6.png)
 This query provides a clear view of order distribution, staff performance, and revenue trends. Managers can use it to optimize operations, improve efficiency, and enhance customer service.
 
-8. Query 7 displays the food name and its corresponding quantity sold.
+7. Query 7 displays the food name and its corresponding quantity sold.
 ![Query 7](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query7.png)
 From a managerial perspective, this query allows them to understand their inventory and base inventory planning off of it. It also allows them to run marketing campaigns for the items they haven’t sold much of and still have stock in.
 
-9. Query 8 displays the most popular drink items based on the quantity ordered, showing only drinks that have been ordered more than 10 times.
+8. Query 8 displays the most popular drink items based on the quantity ordered, showing only drinks that have been ordered more than 10 times.
 ![Query 8](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query8.png)
 This query helps managers identify the most popular drink items based on sales data. This can help them in determining how to manage their inventory and which flavors to keep in stock if they sell out quickly.
 
-10. Query 9 lists the servers that earn above the average salary.
+9. Query 9 lists the servers that earn above the average salary.
 ![Query 9](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query9.png)
 This query helps managers analyze salary distribution and potential salary adjustments. They are able to identify the higher-paid servers and make salary budgeting decisions based on this data.
 
-11. Query 10 shows the food names and their corresponding prices of the menu items that are under $10.
+10. Query 10 shows the food names and their corresponding prices of the menu items that are under $10.
 ![Query10](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query10.png)
 This can help managers in their pricing strategies by showing which items are the cheapest from their menu. Managers can also use this data to develop a budget-friendly section of their menu for customers who are on a tight budget.
 
