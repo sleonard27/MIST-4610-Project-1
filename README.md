@@ -46,7 +46,24 @@ This query provides a clear view of order distribution, staff performance, and r
 
 7. Query 7 displays the food name and its corresponding quantity sold.
 ![Query 7](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query7.png)
-From a managerial perspective, this query allows them to understand their inventory and base inventory planning off of it. It also allows them to run marketing campaigns for the items they haven’t sold much of and still have stock in. 
+
+From a managerial perspective, this query allows them to understand their inventory and base inventory planning off of it. It also allows them to run marketing campaigns for the items they haven’t sold much of and still have stock in.
+
+9. Query 8 displays the most popular drink items based on the quantity ordered, showing only drinks that have been ordered more than 10 times.
+
+
+This query helps managers identify the most popular drink items based on sales data. This can help them in determining how to manage their inventory and which flavors to keep in stock if they sell out quickly.
+
+9. Query 9 lists the servers that earn above the average salary.
+
+
+This query helps managers analyze salary distribution and potential salary adjustments. They are able to identify the higher-paid servers and make salary budgeting decisions based on this data.
+
+10. Query 10 shows the food names and their corresponding prices of the menu items that are under $10.
+
+
+This can help managers in their pricing strategies by showing which items are the cheapest from their menu. Managers can also use this data to develop a budget-friendly section of their menu for customers who are on a tight budget.
+
 
 ## Database information:
 
