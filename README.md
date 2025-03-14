@@ -29,7 +29,7 @@ Managers can identify which food items are doing well and which are not using th
 Manager insight …
 
 3. Query 3 displays the number of orders, average amount spent per order, and total revenue of each table size grouped by table customer quantity
-
+![Query 3](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query2.png)
 Manager insight: 
 
 4. Query 4 displays server names with their total orders and salary
