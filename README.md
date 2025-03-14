@@ -60,7 +60,9 @@ This query provides a clear view of order distribution, staff performance, and r
 From a managerial perspective, this query allows them to understand their inventory and base inventory planning off of it. It also allows them to run marketing campaigns for the items they haven’t sold much of and still have stock in.
 
 8. Query 8 displays the most popular drink items based on the quantity ordered, showing only drinks that have been ordered more than 10 times.
+   
 ![Query 8](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query8.png)
+
 This query helps managers identify the most popular drink items based on sales data. This can help them in determining how to manage their inventory and which flavors to keep in stock if they sell out quickly.
 
 9. Query 9 lists the servers that earn above the average salary.
