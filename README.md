@@ -23,7 +23,7 @@ The Order entity acts as the foundation of the data model, linking to the Table 
 ![DD3](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD3.png)
 ![DD4](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD4.png)
 ![DD5](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD5.png)
-![DD6}(https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD6.png)
+![DD6](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD6.png)
 ![DD7](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD7.png)
 ![DD8](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD8.png)
 ![DD9](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DD9.png)
