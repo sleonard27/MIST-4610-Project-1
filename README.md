@@ -46,7 +46,6 @@ This query provides a clear view of order distribution, staff performance, and r
 
 7. Query 7 displays the food name and its corresponding quantity sold.
 ![Query 7](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query7.png)
-
 From a managerial perspective, this query allows them to understand their inventory and base inventory planning off of it. It also allows them to run marketing campaigns for the items they haven’t sold much of and still have stock in.
 
 9. Query 8 displays the most popular drink items based on the quantity ordered, showing only drinks that have been ordered more than 10 times.
