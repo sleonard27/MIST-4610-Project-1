@@ -72,7 +72,7 @@ This can help managers in their pricing strategies by showing which items are th
 
 
 ## Database information:
-
+![DatabaseInformation1](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/DatabaseInformation1.png)
 Name of the database: ha_group7_crn71552
 
 All queries are bookmarked through stored procedures and can be called using this format: CALL TP_Qx(); where 'x' is the query number.
