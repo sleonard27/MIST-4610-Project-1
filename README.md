@@ -18,6 +18,33 @@ The Order entity acts as the foundation of the data model, linking to the Table 
 ## Data Dictionary:
 
 ## Queries:
+1. Query 1 displays food name and its total quantity in descending order
+
+Managers can identify which food items are doing well and which are not using this information. Based on this, they can optimize their menus by removing underperforming items or adding popular ones, as knowing customer preferences is key to profitability.
+
+2. Query 2 displays the average total payment, average item quantity, and average price per item
+
+Manager insight …
+
+3. Query 3 displays the number of orders, average amount spent per order, and total revenue of each table size grouped by table customer quantity
+
+Manager insight: 
+
+4. Query 4 displays server names with their total orders and salary
+
+Manager insight …
+
+5. Query 5 displays the drink names with their corresponding total revenues, quantity sold, and price
+
+This query allows the manager to understand how to their inventory and which products they should stock the most. It also allows them to run marketing campaigns to boost revenue on expensive drinks like an old fashioned or daiquiri. This also just helps them visualize the breakup of their drink revenues.
+
+6. Query 6 retrieves all orders along with the corresponding table number and server name.
+
+This query provides a clear view of order distribution, staff performance, and revenue trends. Managers can use it to optimize operations, improve efficiency, and enhance customer service.
+
+7. Query 7 displays the food name and its corresponding quantity sold.
+
+From a managerial perspective, this query allows them to understand their inventory and base inventory planning off of it. It also allows them to run marketing campaigns for the items they haven’t sold much of and still have stock in. 
 
 ## Database information:
 
