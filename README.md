@@ -38,33 +38,35 @@ Manager insight …
 
 3. Query 3 displays the number of orders, average amount spent per order, and total revenue of each table size grouped by table customer quantity
 ![Query 3](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query2.png)
-Manager insight: 
+This query helps managers optimize seating by identifying the most profitable table sizes, allowing them to make data-driven decisions. By analyzing spending habits, they can adjust menu pricing and create targeted promotions to encourage higher spending per table. To add ensuring the right number of employees are available during peak times can help enhance customer service and maximize revenue.
+ 
 
 4. Query 4 displays server names with their total orders and salary
 ![Query 4](https://raw.githubusercontent.com/sleonard27/MIST-4610-Project-1/f0dece3f3ac559225a8c3ff18d17315272cfe6ea/Screenshot1.png)
-Manager insight …
+This query helps identify the most profitable servers based on customer spending patterns. It supports incentive programs to reward top performers and enhances scheduling efficiency by ensuring the best servers work during peak hours, ultimately maximizing revenue and improving service quality.
 
-5. Query 5 displays the drink names with their corresponding total revenues, quantity sold, and price
+
+6. Query 5 displays the drink names with their corresponding total revenues, quantity sold, and price
 ![Query 5](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query5.png)
 This query allows the manager to understand how to their inventory and which products they should stock the most. It also allows them to run marketing campaigns to boost revenue on expensive drinks like an old fashioned or daiquiri. This also just helps them visualize the breakup of their drink revenues.
 
-6. Query 6 retrieves all orders along with the corresponding table number and server name.
+7. Query 6 retrieves all orders along with the corresponding table number and server name.
 ![Query 6](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query6.png)
 This query provides a clear view of order distribution, staff performance, and revenue trends. Managers can use it to optimize operations, improve efficiency, and enhance customer service.
 
-7. Query 7 displays the food name and its corresponding quantity sold.
+8. Query 7 displays the food name and its corresponding quantity sold.
 ![Query 7](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query7.png)
 From a managerial perspective, this query allows them to understand their inventory and base inventory planning off of it. It also allows them to run marketing campaigns for the items they haven’t sold much of and still have stock in.
 
-8. Query 8 displays the most popular drink items based on the quantity ordered, showing only drinks that have been ordered more than 10 times.
+9. Query 8 displays the most popular drink items based on the quantity ordered, showing only drinks that have been ordered more than 10 times.
 ![Query 8](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query8.png)
 This query helps managers identify the most popular drink items based on sales data. This can help them in determining how to manage their inventory and which flavors to keep in stock if they sell out quickly.
 
-9. Query 9 lists the servers that earn above the average salary.
+10. Query 9 lists the servers that earn above the average salary.
 ![Query 9](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query9.png)
 This query helps managers analyze salary distribution and potential salary adjustments. They are able to identify the higher-paid servers and make salary budgeting decisions based on this data.
 
-10. Query 10 shows the food names and their corresponding prices of the menu items that are under $10.
+11. Query 10 shows the food names and their corresponding prices of the menu items that are under $10.
 ![Query10](https://github.com/sleonard27/MIST-4610-Project-1/blob/main/Query10.png)
 This can help managers in their pricing strategies by showing which items are the cheapest from their menu. Managers can also use this data to develop a budget-friendly section of their menu for customers who are on a tight budget.
 
